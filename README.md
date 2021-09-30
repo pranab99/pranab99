@@ -1,25 +1,31 @@
-package main
+## नमस्ते 🙏
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/01naveenv/)](https://www.linkedin.com/in/codepranab/)
 
-import (
-	"fmt"
-)
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/pranab99/count.svg" />
+</p>
 
-type Bio map[string]string
 
-func main() {
-	for k, v := range GetBio() {
-		fmt.Printf("%+v: %+v\n", k, v)
-	}
-}
 
-func GetBio() Bio {
-	return Bio{
-		"- ⚡ Quick bio:":                    "A kind of metalHead-melomaniac-gearAddict-amateurMusician-traveler-foodLover-gamer-coder-programmer-catLover-sportsAficionado hybrid",
-		"- 🔭 I’m currently working on":      "Tredicom as a Senior Software Developer --- UAdeC as a Part Time Teacher",
-		"- 🌱 I’m currently learning":        "Golang, MongoDB, RabbitMQ, K8s, GCP (Tech stack from my company) --- Sharpening my Front End Skills for the MERN stack (Personal goal)",
-		"- 👯 I’m looking to collaborate on": "Python, Golang and Docker related projects",
-		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
-		"- 💬 Ask me about":                  "Python, PHP, Laravel, SQL, Software Design & Architecture, Web-Dev and SEO",
-		"- 📫 How to reach me:":              "https://github.com/AnhellO#you-can-reach-me-at-alien",
-	}
-}
+```javascript
+const Naveen = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Java"],
+    askMeAbout: ["web dev", "tech", "app dev", "music", "eddie vedder", "chris cornell"],
+    technologies: {
+       mobileApp: ["Android App"],
+       backEnd: {
+            js: ["node", "express", "hapi"],
+        },
+        databases: ["mongo", "MySql", "sqlite"],
+        misc: ["Firebase", "Socket.IO"]
+    },
+    architecture: ["microservices", "event-driven"],
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
+[![Naveen's github stats](https://github-readme-stats.vercel.app/api?username=pranab99&show_icons=true&theme=merko&hide=["contribs","issues"])](https://github.com/naveenverma1)
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> Lets Play a gmae of Chess sometime.<b>I won't talk without a cup of tea.</b> :)</em>
+
