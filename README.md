@@ -9,7 +9,7 @@
 
 
 ```javascript
-const Pranab = {
+let Pranab = {
     pronouns: "He" | "Him",
     code: ["Javascript", "C++"],
     askMeAbout: ["Web Dev", "Travel", "Netflix","Chess"],
