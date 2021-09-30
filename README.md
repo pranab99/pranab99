@@ -15,7 +15,7 @@ const Pranab = {
     askMeAbout: ["Web Dev", "Algorithms", "Singing","Chess"],
     technologies: {
        backEnd: {
-            js: ["node", "express", "hapi"],
+            js: ["node", "express", "mongoose"],
         },
         databases: ["mongo", "MySql", "sqlite"],
         misc: ["Firebase"]
