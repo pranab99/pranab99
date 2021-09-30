@@ -20,7 +20,7 @@ let Pranab = {
         databases: ["mongo", "MySql"],
         misc: ["Firebase"]
     },
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    funFact: "If you use Bootstrap, only !important works.Those who know,they know"
 };
 ```
 [![Pranab's github stats](https://github-readme-stats.vercel.app/api?username=pranab99&show_icons=true&theme=merko&hide=["contribs","issues"])](https://github.com/pranab99)
