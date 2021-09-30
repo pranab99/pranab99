@@ -12,7 +12,7 @@
 const Pranab = {
     pronouns: "He" | "Him",
     code: ["Javascript", "C++"],
-    askMeAbout: ["web dev", "tech", "music"],
+    askMeAbout: ["Web Dev", "Algorithms", "Singing","Chess"],
     technologies: {
        backEnd: {
             js: ["node", "express", "hapi"],
