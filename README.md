@@ -17,7 +17,7 @@ let Pranab = {
        backEnd: {
             js: ["node", "express", "mongoose"],
         },
-        databases: ["mongo", "MySql", "sqlite"],
+        databases: ["mongo", "MySql"],
         misc: ["Firebase"]
     },
     funFact: "There are two ways to write error-free programs; only the third one works"
