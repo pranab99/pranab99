@@ -1,5 +1,5 @@
 ## नमस्ते 🙏
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/01naveenv/)](https://www.linkedin.com/in/codepranab/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/codepranab/)](https://www.linkedin.com/in/codepranab/)
 
 <p align="center"> 
   Visitor count<br>
@@ -9,23 +9,21 @@
 
 
 ```javascript
-const Naveen = {
+const Pranab = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Java"],
-    askMeAbout: ["web dev", "tech", "app dev", "music", "eddie vedder", "chris cornell"],
+    code: ["Javascript", "C++"],
+    askMeAbout: ["web dev", "tech", "music"],
     technologies: {
-       mobileApp: ["Android App"],
        backEnd: {
             js: ["node", "express", "hapi"],
         },
         databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO"]
+        misc: ["Firebase"]
     },
-    architecture: ["microservices", "event-driven"],
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
-[![Naveen's github stats](https://github-readme-stats.vercel.app/api?username=pranab99&show_icons=true&theme=merko&hide=["contribs","issues"])](https://github.com/naveenverma1)
+[![Pranab's github stats](https://github-readme-stats.vercel.app/api?username=pranab99&show_icons=true&theme=merko&hide=["contribs","issues"])](https://github.com/pranab99)
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> Lets Play a gmae of Chess sometime.<b>I won't talk without a cup of tea.</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> Lets Play a gmae of Chess sometime.<b>I won't talk without a cup of tea.</b> By the way, Mind your own repo!</em>
 
