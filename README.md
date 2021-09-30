@@ -25,5 +25,8 @@ const Pranab = {
 ```
 [![Pranab's github stats](https://github-readme-stats.vercel.app/api?username=pranab99&show_icons=true&theme=merko&hide=["contribs","issues"])](https://github.com/pranab99)
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> Lets Play a gmae of Chess sometime.<b>I won't talk without a cup of tea.</b> By the way, Mind your own repo!</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people </b> 
+  Lets Play a game of Chess sometime.
+  <b>I won't talk without a cup of tea.</b> 
+  By the way, Mind your own repo!</em>
 
