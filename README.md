@@ -1,4 +1,4 @@
-## नमस्ते 🙏
+## जय श्री राम 🙏
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/codepranab/)](https://www.linkedin.com/in/codepranab/)
 
 <p align="center"> 
@@ -25,7 +25,7 @@ const Pranab = {
 ```
 [![Pranab's github stats](https://github-readme-stats.vercel.app/api?username=pranab99&show_icons=true&theme=merko&hide=["contribs","issues"])](https://github.com/pranab99)
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people </b> <br>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <br> <em><b>I love connecting with different people </b> <br>
   <b>Lets Play a game of Chess sometime.</b> <br>
   <b>I won't talk without a cup of tea.</b> <br>
   By the way, Mind your own repo!</em>
