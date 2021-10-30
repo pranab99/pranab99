@@ -28,5 +28,4 @@ let Pranab = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <br> 
   <b>Lets Play a game of Chess sometime.</b> <br>
   <b>I won't talk without a cup of Chai!.</b> <br>
-  By the way, Mind your own repo!</em>
 
