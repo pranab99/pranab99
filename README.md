@@ -15,7 +15,7 @@ let Pranab = {
     askMeAbout: ["Web Dev", "Travel", "Netflix","Chess"],
     technologies: {
        backEnd: {
-            js: ["node", "express", "mongoose"],
+            js: ["node", "express", "mongoose","Socket.io"],
         },
         databases: ["mongo", "MySql"],
         misc: ["Firebase"]
