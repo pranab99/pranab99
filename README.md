@@ -18,7 +18,8 @@ let Pranab = {
             js: ["node", "express", "mongoose","Socket.io"],
         },
         databases: ["mongo", "MySql"],
-        misc: ["Firebase"]
+        misc: ["Firebase"],
+        APIstyles:["REST","JSON-RPC","GraphQL"]
     },
     funFact: "If you use Bootstrap, only !important works.Those who know,they know"
 };
